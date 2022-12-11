@@ -25,6 +25,11 @@ footer {
 
 /* Put a border around your image */
 
+img {
+    border: 5px solid cornflowerblue;
+
+}
+
 
 /* Change the font-family of your list */
 
